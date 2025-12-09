@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98/nCfidvWW4uhqbpDJ/L9v6ZxKVSsCntEINlXOrXizzfHngMdXVQPQV3M89vGYWZei091se5kiXoCY7Hnxr1Q==",
+  "success": true,
+  "projectFilePath": "C:\\(IMPORTANTE)\\___Facultad\\3° Año\\2°Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv3\\TrabajoFinalv3\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kepag\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

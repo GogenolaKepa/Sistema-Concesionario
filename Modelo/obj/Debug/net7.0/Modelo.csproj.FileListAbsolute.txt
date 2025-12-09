@@ -1,0 +1,85 @@
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.runtimeconfig.json
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CopyComplete
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.runtimeconfig.json
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.Up2Date
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\refint\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Modelo\obj\Debug\net7.0\ref\Modelo.dll

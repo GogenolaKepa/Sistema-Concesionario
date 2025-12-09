@@ -1,0 +1,374 @@
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.exe
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Form1.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.GenerateResource.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\refint\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\ref\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Humanizer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.exe
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.deps.json
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.runtimeconfig.json
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Form1.resources
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfo.cs
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CopyComplete
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\refint\Vista.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.genruntimeconfig.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\ref\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCliente.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCompras.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormFinanciamiento.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormInventario.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormMenuPrincipal.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormVentas.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormAuditoria.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormBackup.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionGrupos.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionPermisos.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionUsuarios.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormLogin.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormSeguridad.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Properties.Resources.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.GenerateResource.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.exe
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll.config
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Humanizer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\itextsharp.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\refint\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\ref\Vista.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.exe
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll.config
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.deps.json
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.runtimeconfig.json
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCliente.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCompras.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormFinanciamiento.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormInventario.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormMenuPrincipal.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormVentas.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormAuditoria.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormBackup.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionGrupos.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionPermisos.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionUsuarios.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormLogin.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormSeguridad.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Properties.Resources.resources
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.Up2Date
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\refint\Vista.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\ref\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\refint\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.exe
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll.config
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.runtimeconfig.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Vista.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Humanizer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\itextsharp.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\bin\Debug\net7.0-windows\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCliente.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormCompras.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormFinanciamiento.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormInventario.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormMenuPrincipal.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormVentas.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormAuditoria.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormBackup.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionGrupos.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionPermisos.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormGestionUsuarios.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.FormLogin.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Modulo_de_Seguridad.FormSeguridad.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.Properties.Resources.resources
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.GenerateResource.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\Vista.genruntimeconfig.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Vista\obj\Debug\net7.0-windows\ref\Vista.dll

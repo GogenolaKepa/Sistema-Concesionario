@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFinanciamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormAuditoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormGestionGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormGestionPermisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormGestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modulo de Seguridad\FormSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

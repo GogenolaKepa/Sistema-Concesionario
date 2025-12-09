@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWA/fgAPE/u6+fKPDhTqcx0gGXZjtqLbeLlC2W8CLkWB/nici1o3eQ1Q+FnyvEA9f4iZr3Vi/ngUUxbMORv6/Q==",
+  "success": true,
+  "projectFilePath": "C:\\(IMPORTANTE)\\___Facultad\\3° Año\\2°Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv4\\TrabajoFinalv3\\TrabajoFinalv3\\HashContraseña\\HashContraseña.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kepag\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\kepag\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\kepag\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

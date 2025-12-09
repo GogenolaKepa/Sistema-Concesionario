@@ -1,0 +1,85 @@
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\refint\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\1°Cuatrimestre\Ingenieria de Software\TrabajoFinalv3\Controladora\obj\Debug\net7.0\ref\Controladora.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.deps.json
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfo.cs
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CopyComplete
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\refint\Controladora.dll
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.pdb
+C:\Users\bauti\Desktop\TrabajoFinalv3\Controladora\obj\Debug\net7.0\ref\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\refint\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\ref\Controladora.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.deps.json
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.AssemblyReference.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfoInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfo.cs
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controla.1EE7A4DA.Up2Date
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\refint\Controladora.dll
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.pdb
+C:\Users\Sistema\Downloads\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\ref\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.deps.json
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Entidades.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\bin\Debug\net7.0\Modelo.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.AssemblyReference.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfoInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.AssemblyInfo.cs
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CoreCompileInputs.cache
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.csproj.CopyComplete
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\refint\Controladora.dll
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\Controladora.pdb
+C:\(IMPORTANTE)\___Facultad\3° Año\2°Cuatrimestre\Trabajo de Diploma\TrabajoFinalv4\TrabajoFinalv3\TrabajoFinalv3\Controladora\obj\Debug\net7.0\ref\Controladora.dll

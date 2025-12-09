@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|c:\\users\\sistema\\downloads\\trabajofinalv3\\trabajofinalv3\\vista\\formcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\formcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|c:\\users\\sistema\\downloads\\trabajofinalv3\\trabajofinalv3\\vista\\formcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\formcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|c:\\users\\sistema\\downloads\\trabajofinalv3\\trabajofinalv3\\vista\\formfinanciamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\formfinanciamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310202114_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20250310202114_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\controladora\\controladoraventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladoraventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF0A84-B664-4FD2-8CF1-8F6FF63F31C6}|Modelo\\Modelo.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\modelo\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBF0A84-B664-4FD2-8CF1-8F6FF63F31C6}|Modelo\\Modelo.csproj|solutionrelative:modelo\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201129_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20250310201129_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201113_inicil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Migrations\\20250310201113_inicil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\controladora\\modulo de seguridad\\controladoraseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|solutionrelative:controladora\\modulo de seguridad\\controladoraseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\controladora\\controladorafinanciamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladorafinanciamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\controladora\\controladorainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBF0AAE-9038-4163-9B00-87EF57C62135}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladorainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formseguridad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formseguridad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formauditoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formauditoria.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\vista\\modulo de seguridad\\formbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD61A7A-DA88-4DCF-A7CC-176FB4EE358B}|Vista\\Vista.csproj|solutionrelative:vista\\modulo de seguridad\\formbackup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24954472-CE1B-4A4C-A976-894E29320558}|Entidades\\Entidades.csproj|solutionrelative:entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCompras.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormCompras.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCompras.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormCompras.cs",
+              "RelativeToolTip": "Vista\\FormCompras.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAswK4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:40:16.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormCompras.cs",
+              "RelativeDocumentMoniker": "Vista\\FormCompras.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:40:15.402Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormFinanciamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormFinanciamiento.cs",
+              "RelativeDocumentMoniker": "Vista\\FormFinanciamiento.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormFinanciamiento.cs",
+              "RelativeToolTip": "Vista\\FormFinanciamiento.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAMwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:35:43.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250310202114_prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310202114_prueba.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20250310202114_prueba.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310202114_prueba.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20250310202114_prueba.cs",
+              "ViewState": "AQIAAJABAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:21:14.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250310201129_prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201129_prueba.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20250310201129_prueba.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201129_prueba.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20250310201129_prueba.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250310201113_inicil.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201113_inicil.cs",
+              "RelativeDocumentMoniker": "Modelo\\Migrations\\20250310201113_inicil.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Migrations\\20250310201113_inicil.cs",
+              "RelativeToolTip": "Modelo\\Migrations\\20250310201113_inicil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:11:13.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Entidades\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\DetallePedido.cs",
+              "RelativeToolTip": "Entidades\\DetallePedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Concesionario.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Concesionario.cs",
+              "RelativeDocumentMoniker": "Modelo\\Concesionario.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Modelo\\Concesionario.cs",
+              "RelativeToolTip": "Modelo\\Concesionario.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "Entidades\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "Entidades\\Pedido.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormVentas.cs",
+              "RelativeDocumentMoniker": "Vista\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormVentas.cs",
+              "RelativeToolTip": "Vista\\FormVentas.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAYwIsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Vehiculo.cs",
+              "RelativeToolTip": "Entidades\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "Entidades\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\DetalleCompra.cs",
+              "RelativeToolTip": "Entidades\\DetalleCompra.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\EstadoPedido.cs",
+              "RelativeDocumentMoniker": "Entidades\\EstadoPedido.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\EstadoPedido.cs",
+              "RelativeToolTip": "Entidades\\EstadoPedido.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ControladoraSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\Modulo de Seguridad\\ControladoraSeguridad.cs",
+              "RelativeDocumentMoniker": "Controladora\\Modulo de Seguridad\\ControladoraSeguridad.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\Modulo de Seguridad\\ControladoraSeguridad.cs",
+              "RelativeToolTip": "Controladora\\Modulo de Seguridad\\ControladoraSeguridad.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormVentas.cs",
+              "RelativeDocumentMoniker": "Vista\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\FormVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.938Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControladoraVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraVenta.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraVenta.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraVenta.cs",
+              "RelativeToolTip": "Controladora\\ControladoraVenta.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ControladoraFinanciamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraFinanciamiento.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraFinanciamiento.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraFinanciamiento.cs",
+              "RelativeToolTip": "Controladora\\ControladoraFinanciamiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControladoraInventario.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraInventario.cs",
+              "RelativeDocumentMoniker": "Controladora\\ControladoraInventario.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Controladora\\ControladoraInventario.cs",
+              "RelativeToolTip": "Controladora\\ControladoraInventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAuditoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "ToolTip": "C:\\(IMPORTANTE)\\___Facultad\\3\u00B0 A\u00F1o\\2\u00B0Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\(IMPORTANTE)\\___Facultad\\3\u00B0 A\u00F1o\\2\u00B0Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-10T20:09:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormAuditoria.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "RelativeToolTip": "Vista\\Modulo de Seguridad\\FormAuditoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-10T20:09:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormAuditoria.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormAuditoria.Designer.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormAuditoria.Designer.cs",
+              "RelativeToolTip": "Vista\\Modulo de Seguridad\\FormAuditoria.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormBackup.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormBackup.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormBackup.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormBackup.cs",
+              "RelativeToolTip": "Vista\\Modulo de Seguridad\\FormBackup.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA1wDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-10T20:09:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormSeguridad.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.Designer.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormSeguridad.Designer.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.Designer.cs",
+              "RelativeToolTip": "Vista\\Modulo de Seguridad\\FormSeguridad.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "RelativeToolTip": "Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-10T20:09:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormSeguridad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "RelativeDocumentMoniker": "Vista\\Modulo de Seguridad\\FormSeguridad.cs",
+              "ToolTip": "C:\\(IMPORTANTE)\\___Facultad\\3\u00B0 A\u00F1o\\2\u00B0Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\(IMPORTANTE)\\___Facultad\\3\u00B0 A\u00F1o\\2\u00B0Cuatrimestre\\Trabajo de Diploma\\TrabajoFinalv3\\TrabajoFinalv3\\Vista\\Modulo de Seguridad\\FormSeguridad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-10T20:09:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Auditoria.cs",
+              "RelativeDocumentMoniker": "Entidades\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\Sistema\\Downloads\\TrabajoFinalv3\\TrabajoFinalv3\\Entidades\\Auditoria.cs",
+              "RelativeToolTip": "Entidades\\Auditoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
