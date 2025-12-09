@@ -1,163 +1,148 @@
-🚗 Sistema de Gestión de Concesionaria
+# 🚗 Sistema de Gestión de Concesionaria
 
-Este proyecto es el final de Analista en Sistemas y consiste en el desarrollo de un sistema integral para la gestión de una concesionaria de vehículos. Permite administrar stock, ventas, auditorías, usuarios, proveedores, y más.
+Este proyecto fue desarrollado como trabajo final integrador de la carrera **Ingeniería en Sistemas Informáticos** para el 3° año con titulo de **Analista en Sistemas**. Consiste en el desarrollo de un sistema de escritorio completo para la **gestión integral de una concesionaria de vehículos**, incluyendo funcionalidades de stock, ventas, seguridad, usuarios, proveedores, auditorías y más.
 
-🧰 Tecnologías utilizadas
+---
 
-Lenguaje: C# (.NET 7)
+## 📌 Tecnologías Utilizadas
 
-Base de datos: SQL Server 2022
+- **Lenguaje:** C# (.NET 7)
+- **Base de datos:** SQL Server 2022
+- **ORM:** Entity Framework Core 7 (con migraciones)
+- **Interfaz gráfica:** Windows Forms (WinForms)
+- **Control de versiones:** Git + GitHub
 
-ORM: Entity Framework Core 7 (con migraciones)
+### 📦 Librerías externas
 
-Interfaz gráfica: Windows Forms
+- `BCrypt.Net-Next` → Hashing seguro de contraseñas
+- `iTextSharp` → Generación de PDFs
+- `System.Configuration` → Manejo de cadena de conexión
+- `System.Data.SqlClient` → Operaciones directas en BD
 
-Librerías externas:
+---
 
-BCrypt.Net-Next para hashing de contraseñas
+## 🧩 Arquitectura General del Proyecto
 
-iTextSharp para generación de PDFs
+El sistema está basado en una **arquitectura por capas**, con separación clara entre lógica de negocio, acceso a datos, y presentación. Se organizaron los componentes en las siguientes carpetas principales:
 
-Auditoría y Logs: Módulo propio + registros en base de datos
+### 1. 🧠 Modelo
 
-Persistencia: Contexto EF Concesionario.cs
+Contiene la lógica de negocio, entidades y validaciones.
 
-Control de versiones: Git + GitHub
+- `Cliente.cs`, `Empleado.cs`, `Vehiculo.cs`
+- `Producto.cs`, `ProductoPerecedero.cs`, `ProductoNoPerecedero.cs`
+- `Grupo.cs`, `Usuario.cs`, `Auditoria.cs`, `ItemVenta.cs`
 
-🗂️ Estructura del proyecto
-├── Vista/                         # Proyecto de Windows Forms (presentación)
-│   ├── FormLogin.cs              # Inicio de sesión
-│   ├── FormMenuPrincipal.cs      # Pantalla principal
-│   ├── FormVentas.cs             # Gestión de ventas
-│   ├── FormClientes.cs           # ABM clientes
-│   ├── FormInventario.cs         # Gestión de vehículos en stock
-│   └── Modulo_de_Seguridad/     # Módulo de seguridad (login, auditoría)
-│
-├── Modelo/                       # Proyecto de acceso a datos (EF Core)
-│   ├── Concesionario.cs          # DbContext
-│   └── Entidades/               # Entidades de negocio
-│       ├── Vehiculo.cs
-│       ├── Inventario.cs
-│       ├── Usuario.cs
-│       ├── Grupo.cs
-│       ├── Auditoria.cs
-│       └── ...
-│
-├── SQL/
-│   └── TrabajoDeDiploma.sql     # Script de creación de base de datos
-│
-├── Documentacion/
-│   ├── Trabajo de Diploma.docx   # Documento técnico con análisis completo
-│   └── Entrega #2 Parcial.mdj    # Diagrama de clases y casos de uso (StarUML)
+> 🧠 **Patrones aplicados**:
+> - `Strategy`: Productos perecederos/no perecederos implementan distintas estrategias de validación.
+> - `Composite`: En productos agrupados o estructuras jerárquicas (si aplica).
+> - `Observer`: Para auditoría de eventos (como login/logout) y logs del sistema.
 
-🔐 Módulo de Seguridad
+---
 
-Incluye funcionalidades de inicio y cierre de sesión, auditoría, y permisos basados en grupos.
+### 2. 🗂 Controladoras
 
-Inicio de sesión con verificación de contraseña (BCrypt)
+Encargadas de orquestar las operaciones entre la UI y la base de datos.
 
-Auditoría en tabla Auditorias:
+- `ControladoraGeneral.cs`: orquestador principal
+- `ControladoraUsuarios.cs`, `ControladoraVentas.cs`, `ControladoraStock.cs`
+- `ControladoraSeguridad.cs`, `ControladoraAuditoria.cs`
 
-Registro de inicio de sesión
+---
 
-Registro de logout
+### 3. 🧾 Formularios (UI)
 
-Acciones críticas del sistema
+Construidos con Windows Forms. Cada funcionalidad principal cuenta con su propio formulario:
 
-Gestión de permisos a través de Grupos y Permisos
+- `FormLogin.cs`: Login e inicio de sesión
+- `FormMenuPrincipal.cs`: Menú principal del sistema
+- `FormVentas.cs`, `FormClientes.cs`, `FormInventario.cs`
+- `FormAuditoria.cs`, `FormConfiguracion.cs`, etc.
 
-Vista de auditoría con filtro por fecha y tipo de acción
+---
 
-🧱 Base de datos
-Tablas principales:
+### 4. 🔐 Módulo de Seguridad
 
-Vehiculos: datos de cada modelo, precio, disponibilidad
+Contiene toda la lógica relacionada a la autenticación y autorización:
 
-Inventarios: stock físico por vehículo
+- Permite login seguro con hashing
+- Gestión de usuarios y grupos con distintos permisos
+- Auditoría automática de eventos como login, logout y acciones sensibles
 
-Proveedores: marcas o distribuidores
+---
 
-Clientes: compradores del sistema
+### 5. 📝 Auditoría y Logs
 
-Ventas: historial de operaciones
+Sistema propio que registra:
 
-Usuarios: login del sistema
+- Inicio y cierre de sesión de cada usuario
+- Acciones importantes (modificaciones, eliminaciones, etc.)
+- Errores y eventos críticos
 
-Grupos, Permisos, UsuarioGrupo: control de roles
+Los registros se almacenan directamente en la base de datos.
 
-Auditorias: acciones del sistema
+---
 
-👉 Todas las relaciones están integradas con Foreign Keys. La sincronización entre Vehiculos e Inventarios se da por el VehiculoId.
+## 🧪 Base de Datos
 
-🧠 Patrones de Diseño Utilizados
-✅ Observer
+No incluye archivo `.sql` con:
 
-Aplicado en el módulo de seguridad: la clase GestorAuditoria notifica automáticamente a los observadores cuando hay inicio/cierre de sesión o eventos relevantes.
+- Script de creación de tablas y relaciones
+- Inserción de datos de ejemplo
+- Control de integridad referencial
 
-Cada acción genera un registro en la tabla Auditorias.
+---
 
-✅ Strategy
+## 📂 Estructura del Proyecto
 
-Implementado en el módulo de Backup (si lo activás): permite cambiar dinámicamente el método de backup (local, externo, zip, etc.) sin modificar el código del módulo de ejecución.
+```
+├── /Modelo/
+│   ├── Entidades/
+├── /Controladoras/
+├── /Modulo_de_Seguridad/
+├── /Vista/
+│   ├── FormLogin.cs
+│   ├── FormVentas.cs
+│   ├── FormMenuPrincipal.cs
+│   ├── FormClientes.cs
+│   └── FormInventario.cs
+├── /SQL/
+│   └── TrabajoDeDiploma.sql
+├── /Documentacion/
+│   ├── Trabajo de Diploma.docx
+│   └── Entrega #2 Parcial.mdj
+```
 
-✅ Composite
+---
 
-Utilizado en el sistema de permisos. Un grupo puede tener múltiples permisos y a su vez pertenecer a estructuras jerárquicas, permitiendo representar comportamientos compuestos.
+## 🏗️ Patrones de Diseño Usados
 
-📋 Funcionalidades destacadas
+- **Strategy** → validaciones y comportamientos de productos
+- **Observer** → auditoría de eventos
+- **Composite** → jerarquía de productos (si se aplica)
+- **Repository (implícito)** → gestión de entidades con EF Core
+- **Singleton** → patrón aplicado a la controladora general (acceso global controlado)
 
-🔐 Login seguro con hash
+---
 
-📈 Reportes PDF (ventas, stock, auditorías)
+## 📄 Documentación y Anexos
 
-🧾 ABM completo de:
+Algunas secciones complementarias como manuales de usuario, documentación técnica detallada o anexos del sistema no han sido adjuntadas en este repositorio por motivos de espacio y/o confidencialidad, pero pueden ser provistas a pedido.
 
-Vehículos
+---
 
-Clientes
+## 🚀 Instrucciones de Ejecución
 
-Proveedores
+1. Clonar el repositorio
+2. Restaurar los paquetes NuGet
+3. Ejecutar migraciones (`Update-Database`) o usar el script `TrabajoDeDiploma.sql`
+4. Configurar cadena de conexión en `app.config`
+5. Compilar y ejecutar desde `FormLogin.cs`
 
-Usuarios y Grupos
+---
 
-🛠️ Auditoría en tiempo real
+## 👤 Autor
 
-🔄 Backup de base de datos
-
-🧮 Control de stock sincronizado
-
-🧪 Consideraciones técnicas
-
-Se recomienda tener SQL Server 2022 instalado
-
-La cadena de conexión en appsettings.json o en el constructor del DbContext está configurada para uso local (localhost)
-
-Compatible con Visual Studio 2022 (.NET 7)
-
-Se recomienda correr las migraciones EF Core antes de la primera ejecución
-
-▶️ Cómo ejecutar el proyecto
-
-Clonar el repositorio:
-
-git clone https://github.com/tuusuario/concesionaria.git
-
-
-Configurar cadena de conexión en Concesionario.cs o app.config:
-
-optionsBuilder.UseSqlServer("Server=localhost;Database=ConcesionarioDB;Trusted_Connection=True;");
-
-
-Ejecutar migraciones (opcional):
-
-dotnet ef database update
-
-
-Iniciar el proyecto desde Visual Studio (Vista/FormLogin.cs)
-
-Algunas secciones complementarias como manuales de usuario, documentación técnica detallada o anexos del sistema no han sido adjuntadas en este repositorio por motivos de espacio y/o confidencialidad.
-
-👤 Autor
-
-Kepa Gogenola
-Proyecto final para Analista en Sistemas. ISI - UAI Rosario
+> **Kepa Gogenola**  
+> Proyecto final para Analista en Sistemas.  
+> Universidad Abierta Interamericana – Ingeniería en Sistemas
